@@ -27,13 +27,13 @@ function Home(props) {
                 <img src='./images/profile-pic.PNG' alt="profile" style={styles.img} />
             </div>
             <div className='intro' style={styles.intro}>
-                <h1>Hey, I'm Tamzin!</h1>
+                <h1>Hey, I'm Tasmiah!</h1>
                 <p style={styles.margin}>Front-End Web Developer</p>
 
                 <p style={styles.margin}>Creating impactful and functional websites for memorable online presences.</p>
                 
                 <button>
-                    <a href="mailto:tamzin.chikhalia@gmail.com">Contact Me</a>
+                    <a href="mailto:tasmiah070301@gmail.com">Contact Me</a>
                 </button>
             </div>
         </div>

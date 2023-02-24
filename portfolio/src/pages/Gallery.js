@@ -46,11 +46,9 @@ function Gallery(props) {
 
       <div className="wrapper" style={styles.wrapper}>
         <p className="about" style={styles.about}>
-          I'm a marketing professional with a passion for design. I hold
-          experience in areas such as graphic design, marketing strategy, paid
-          social advertising and E-Commerce - just to name a few! I've recently
-          decided to make a career switch to Front-End Web Development and I'm
-          excited to bring my marketing mindset and design skills to the field!
+          I am a Medical Biochemist and a Dental student. I've recently
+          decided to step into Front-End Web Development and I'm
+          excited to bring my skills into the field!
         </p>
         <div>
           <section className="skills" style={styles.skills}>
@@ -66,31 +64,30 @@ function Gallery(props) {
               Transferable:
             </h5>
             <p>
-              Social media advertising, Graphic design, Adobe: Photoshop,
-              Indesign and Illustrator, Attention to detail, Quick learner
+              AGILE, Attention to detail, analytical. 
             </p>
           </section>
 
           <aside style={styles.aside}>
-            <a href="https://github.com/TamzinC" target="_blank">
+            <a href="" target="_blank">
               <FontAwesomeIcon
                 icon={faGithub}
                 style={styles.badges}
               ></FontAwesomeIcon>
             </a>
-            <a href="https://www.linkedin.com/in/tamzin-chikhalia-44a59a188/" target="_blank">
+            <a href="" target="_blank">
               <FontAwesomeIcon
                 icon={faLinkedin}
                 style={styles.badges}
               ></FontAwesomeIcon>
             </a>
-            <a href="mailto:tamzin.chikhalia@gmail.com" target="_blank">
+            <a href="mailto:tasmiah070301@gmail.com" target="_blank">
               <FontAwesomeIcon
                 icon={faEnvelope}
                 style={styles.badges}
               ></FontAwesomeIcon>
             </a>
-            <a href="./assets/tamzin_cv.pdf" target="_blank">
+            <a href="" target="_blank">
               <FontAwesomeIcon
                 icon={faFilePdf}
                 style={styles.badges}
