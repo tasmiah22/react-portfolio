@@ -23,11 +23,11 @@ function App() {
 
 
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/Home' element={<Home />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='/gallery' element={<Gallery />} />
         <Route path='/Project' element={<Project challenges={data}/>} />
-        <Route path='*' element={<NotFound />} />
+        <Route path='/NotFound' element={<NotFound />} />
       </Routes>
       
 

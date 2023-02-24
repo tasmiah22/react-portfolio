@@ -24,7 +24,7 @@ function Home(props) {
     return (
         <div className='hero' style={styles.hero}>
             <div>
-                <img src='./images/profile-pic.PNG' alt="profile" style={styles.img} />
+                <img src='' alt="profile" style={styles.img} />
             </div>
             <div className='intro' style={styles.intro}>
                 <h1>Hey, I'm Tasmiah!</h1>
